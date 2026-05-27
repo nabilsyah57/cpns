@@ -2,7 +2,7 @@
 
 ## Overview
 
-https://github.io/nabilsyah57/cpns
+[https://github.io/nabilsyah57/cpns](https://nabilsyah57.github.io/cpns)
 
 Peanut adalah platform pembelajaran CPNS berbasis web yang dirancang untuk membantu peserta mempersiapkan tes SKD CPNS secara modern, interaktif, dan responsif. Aplikasi ini menyediakan simulasi CAT, materi pembelajaran, pembahasan soal, analitik performa, serta antarmuka profesional yang menyerupai sistem ujian resmi.
 
