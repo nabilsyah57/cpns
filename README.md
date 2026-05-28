@@ -211,3 +211,7 @@ Developed for modern CPNS learning experience.
 
 "Learn smarter, pass faster." 🚀
 
+
+#  AI-Assisted Development Notice
+
+This project was created using AI-assisted development tools to accelerate coding, documentation, and problem-solving processes. All project requirements, architecture decisions, feature selection, testing, debugging, and final implementation were reviewed and managed by the developer.
